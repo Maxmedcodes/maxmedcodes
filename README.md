@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 My Name's Mohamed and I am One of those Gazillion people that Pivoted to Tech :technologist: after Completing a [AWS Bootcamp](https://uk.generation.org/london/aws-restart/) <br/>
-💻: Interested in AWS and Devops
+💻: Interested in Cloud and Devops
 Hold 2 AWS Certificates (Cloud Practioner and Solutions Architect) 
 <a href="https://emoji.gg/emoji/8708-aws"><img src="https://cdn3.emoji.gg/emojis/8708-aws.png" width="50px" height="32px" alt="aws"></a> <br/>
 Currently Learning Python <a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="28px" height="28px" alt="python"></a> 
