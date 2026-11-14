@@ -1,8 +1,8 @@
 
 
 # 💫 About Me:
-My Name's Mohamed and I just trying out stuff
-<a href="https://emoji.gg/emoji/8708-aws"><img src="https://cdn3.emoji.gg/emojis/8708-aws.png" width="50px" height="32px" alt="aws"></a> <br/>
+My Name's Mohamed and I just trying out and learning stuff
+ <br/>
 Currently Learning Python <a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="28px" height="28px" alt="python"></a> 
 and WebDevelopment (Html,Css,Bootstrap) <a href="https://emoji.gg/emoji/7893-developer-hax-5555ff"><img src="https://cdn3.emoji.gg/emojis/7893-developer-hax-5555ff.png" width="28px" height="28px" alt="Developer_HAX_5555ff"></a> <br/>
 <br/>
